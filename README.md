@@ -44,9 +44,9 @@ From crafting responsive designs to building real-time apps, my journey reflects
 🌟 I’m fascinated by AI integration and exploring how machine learning can elevate user experiences.
 🛠️ My focus is on building robust SaaS solutions and contributing to impactful projects.
 🌟 Let’s Connect
-📫 Email: mohdzaid@example.com
-💼 LinkedIn: Mohd Zaid
-🌐 Portfolio: zaid-portfolio.com
+📫 Email: mohzaid035@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/moh-zaid-9121ab268/
+🌐 Portfolio: https://gitzaidhub.github.io/Portfolio/
 
 “Turning ideas into reality, one line of code at a time.”
 
