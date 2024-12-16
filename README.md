@@ -1,4 +1,4 @@
-##👋 Hi there! I'm Mohd Zaid
+👋 Hi there! I'm Mohd Zaid
 🎓 Aspiring Software Developer | 💻 Full Stack Enthusiast | 🌟 Innovator & Creator
 
 Welcome to my GitHub space!
