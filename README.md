@@ -40,10 +40,6 @@ A **Patreon-like platform**:
 
 ---
 
-
-
-
-
 # 💻 Tech Stack  
 
 ### **Frontend**  
@@ -60,15 +56,23 @@ A **Patreon-like platform**:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-plain.svg" alt="Postman" width="40" height="40" />  
 
 
-📈 My Journey
-From crafting responsive designs to building real-time apps, my journey reflects adaptability, passion, and a commitment to excellence.
+---
 
-🌟 I’m fascinated by AI integration and exploring how machine learning can elevate user experiences.
-🛠️ My focus is on building robust SaaS solutions and contributing to impactful projects.
-🌟 Let’s Connect
-📫 Email: mohzaid035@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/moh-zaid-9121ab268/
-🌐 Portfolio: https://gitzaidhub.github.io/Portfolio/
+## 📈 My Journey  
 
-“Turning ideas into reality, one line of code at a time.”
+From crafting **responsive designs** to building **real-time applications**, my journey reflects:  
+- 🌟 **Adaptability**, **passion**, and a **commitment to excellence**.  
+- 🤖 A fascination with **AI integration** and exploring how **machine learning** can elevate user experiences.  
+- 🛠️ A focus on developing **robust SaaS solutions** and contributing to **impactful projects**.  
 
+---
+
+## 🌟 Let’s Connect  
+
+- 📫 **Email:** [mohzaid035@gmail.com](mailto:mohzaid035@gmail.com)  
+- 💼 **LinkedIn:** [Mohd Zaid](https://www.linkedin.com/in/moh-zaid-9121ab268/)  
+- 🌐 **Portfolio:** [My Portfolio](https://gitzaidhub.github.io/Portfolio/)  
+
+---
+
+> *“Turning ideas into reality, one line of code at a time.”*  
